@@ -110,7 +110,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-package-lock.json
 yarn.lock
 
 /03-05 Soqutes Mutihilo UDP/ServidorWeb/nbproject/private/
